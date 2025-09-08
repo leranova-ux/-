@@ -7,7 +7,7 @@
 
 ## 🔍 О программе
 
-**SmartПродуктивность** — это антикризисная система мышления, действий и восстановления, основанная на:
+**SmartПродуктивность** — это система стратегических действий, которая помогая делать меньше, при этом получать больше результатов:
 
 - Методике **5×1**: фокус на 5 ключевых действиях, дающих 80% результата
 - Перераспределении ресурсов в условиях перегруза
@@ -19,23 +19,12 @@
 - перестать терять время на «не то»,
 - и начать расти стратегически, без хаоса и потерь.
 
----
-
-## 🧩 Что внутри
-
-- 6 тематических модулей (мышление, действия, фокус, восстановление, рост, поддержка)
-- Рабочая тетрадь и шаблоны
-- Групповая поддержка и обратная связь
-- Разборы и дорожная карта изменений
-- Участие онлайн или в записи
-
----
 
 ## 🔗 Полезные ссылки
 
 - 🌐 [Сайт программы](https://leranova.ru/group)
 - 📖 [Официальный Telegram-канал Валерии](https://t.me/lera_novaa)
-- 🧠 [Пирамида бизнес-мышления](https://leranova.ru/book)
+- 🧠 [Книга "Она и бизнес"]([https://leranova.ru/book](https://www.litres.ru/book/valeriya-nova/ona-i-biznes-72196705/)
 - 🎓 [Лекции по делегированию](https://leranova.ru/sistem)
 
 ---
@@ -88,7 +77,7 @@
 
 ## 🔍 About the Program
 
-**SmartProductivity** is an anti-crisis system of thinking, action, and recovery based on:
+**SmartProductivity** it is a system of strategic actions that helps you do less while getting more results:
 
 - The **5×1 method**: focus on 5 key actions that produce 80% of results
 - Redistributing energy and time when overwhelmed
@@ -102,19 +91,9 @@ The program helps you:
 
 ---
 
-## 🧩 What's Included
-
-- 6 themed modules (mindset, action, focus, recovery, growth, support)
-- Workbook and templates
-- Group support and expert feedback
-- Deep dives and change roadmap
-- Live or recorded participation
-
----
-
 ## 🔗 Useful Links
 
 - 🌐 [Official website](https://leranova.ru/group)
 - 📖 [Telegram channel](https://t.me/lera_novaa)
-- 🧠 [Business Thinking Pyramid Book](https://leranova.ru/book)
+- 🧠 [The book "She and Business"](https://www.litres.ru/book/valeriya-nova/ona-i-biznes-72196705/)
 - 🎓 [Delegation System Lectures](https://leranova.ru/sistem)
