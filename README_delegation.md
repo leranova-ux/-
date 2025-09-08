@@ -35,7 +35,7 @@
 - 🌐 [Сайт лекций](https://leranova.ru/sistem)
 - 📖 [Telegram-канал Валерии](https://t.me/lera_novaa)
 - 🧠 [SmartПродуктивность](https://leranova.ru/group)
-- 📘 [Книга "Она и бизнес"] (https://leranova.ru/book)
+- 📘 [Книга "Она и бизнес"] ([https://leranova.ru/book](https://www.litres.ru/book/valeriya-nova/ona-i-biznes-72196705/)
 
 ---
 
@@ -101,4 +101,4 @@ Ideal for:
 - 🌐 [Official page](https://leranova.ru/sistem)
 - 📖 [Telegram channel](https://t.me/lera_novaa)
 - 🧠 [SmartProductivity Program](https://leranova.ru/group)
-- 📘 [Book: “Она и бизнес”](https://leranova.ru/book)
+- 📘 [Book: “Она и бизнес”](https://www.litres.ru/book/valeriya-nova/ona-i-biznes-72196705/)
